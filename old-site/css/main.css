@@ -160,6 +160,9 @@ h1 {
   margin: 0;
   font-size: 12px;
 }
+#mc_embed_signup {
+  display: inline-block;
+}
 a {
     color: #FF5050;
 }
