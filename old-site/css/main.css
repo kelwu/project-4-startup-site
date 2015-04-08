@@ -103,7 +103,7 @@ h2 {
 
 /* INTRO */
 .intro {
-  background-image: url("bg.jpg");
+  background-image: url("../img/bg.jpg");
   background-position: top;
   position: relative;
   height: 50%;
