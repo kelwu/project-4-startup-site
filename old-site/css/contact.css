@@ -70,11 +70,22 @@ a {
 }
 
 h1 {
-  margin: auto;
+  position: relative;
+  text-align: center;
+  transform: translateY(-50%);
+  color: white;
+}
+
+.twitter {
+
+}
+.twitter p {
+  margin-left: 13px;
 }
 .social {
   float: right;
   display: inline-block;
+  margin-right: 13px;
 }
 .social p {
   display: inline-block;
