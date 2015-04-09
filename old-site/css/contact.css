@@ -72,6 +72,13 @@ a {
 h1 {
   margin: auto;
 }
+.social {
+  float: right;
+  display: inline-block;
+}
+.social p {
+  display: inline-block;
+}
 
 /* Footer */
 
