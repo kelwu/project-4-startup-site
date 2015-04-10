@@ -122,6 +122,18 @@ h2 {
   float: left;
   box-shadow: 0 -2px 5px 2px black inset;
 }
+input#mce-EMAIL {
+  width: 47.1%;
+  height: 28px;
+  border-style: none;
+}
+input#mc-embedded-subscribe {
+  background-color: black;
+  color: white;
+  height: 31px;
+  border-style: none;
+  
+}
 div.center {
   text-align: center;
   margin: auto;
