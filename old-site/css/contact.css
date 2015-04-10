@@ -106,6 +106,9 @@ h1 {
 .icons a {
   color: gray;
 }
+i.fa.fa-twitter,i.fa.fa-facebook,i.fa.fa-instagram {
+   margin-right: 2px;
+}
 
 /* Footer */
 
