@@ -81,6 +81,8 @@ h1 {
 }
 .twitter p {
   margin-left: 13px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .social {
   float: right;
@@ -89,6 +91,9 @@ h1 {
 }
 .social p {
   display: inline-block;
+  float: right;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 /* Footer */
