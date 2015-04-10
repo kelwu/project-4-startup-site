@@ -90,10 +90,12 @@ h1 {
   margin-right: 13px;
 }
 .social p {
-  display: inline-block;
-  float: right;
+  display: block;
   margin-top: 5px;
   margin-bottom: 5px;
+}
+i.fa.fa-twitter, i.fa.fa-facebook, i.fa.fa-instagram {
+  color: gray;
 }
 
 /* Footer */
