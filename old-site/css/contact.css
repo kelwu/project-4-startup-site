@@ -78,6 +78,7 @@ h1 {
   bottom: 40%;
   margin: auto;
 }
+.middle 
 .twitter {
   width: 50%;
 }
@@ -89,19 +90,21 @@ h1 {
 .social {
   float: right;
   display: inline-block;
-  margin-right: 13px;
   width: 48%;
 }
 .social p {
-  display: block;
-  margin-top: 5px;
+  display: inline-block;
   margin-bottom: 5px;
   margin-left: 20px;
+  position: absolute;
+  bottom: 340px;
 }
 /*i.fa.fa-twitter, i.fa.fa-facebook, i.fa.fa-instagram {*/
 .icons {
   color: gray;
   margin-left: 20px;
+  position: absolute;
+  bottom: 310px;
 }
 .icons a {
   color: gray;
