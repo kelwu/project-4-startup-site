@@ -47,3 +47,11 @@ h2 {
   background-color: transparent;
   text-decoration: underline;
 }
+video {
+  display: block;
+  text-align: center;
+  position: relative;
+  margin-top: 0;
+  margin-left: 10%;
+  background-color: black;
+}
