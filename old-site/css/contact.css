@@ -4,8 +4,18 @@ html, body {
   margin: 0;
   padding-right: 5%;
   padding-left: 5%;
-  height: 100%;
 }
+
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+ 
+.clearfix:after {
+  clear: both;
+}
+
 .body-wrap {
   background: #F2F2F2;
   margin: 0 auto;
@@ -80,6 +90,7 @@ h1 {
 }
 .twitter {
   width: 50%;
+  float: left;
 }
 .twitter p {
   margin-left: 13px;
@@ -97,15 +108,15 @@ h1 {
   display: inline-block;
   margin-bottom: 5px;
   margin-left: 20px;
-  position: absolute;
-  bottom: 340px;
+/*  position: absolute;
+  bottom: 340px;*/
 }
 /*i.fa.fa-twitter, i.fa.fa-facebook, i.fa.fa-instagram {*/
 .icons {
   color: gray;
   margin-left: 20px;
-  position: absolute;
-  bottom: 310px;
+ /* position: absolute;
+  bottom: 310px;*/
 }
 .icons a {
   color: gray;
@@ -120,6 +131,7 @@ footer {
   width: 100%;
   display: block;
   background-color: black;
+  clear: both;
 }
 
 footer p {
