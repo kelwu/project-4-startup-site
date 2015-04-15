@@ -76,6 +76,8 @@ video {
 p {
   font-size: 36px;
   margin-left: 6%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
 }
 .beige-testimonial {
   width: 40%;
@@ -85,7 +87,8 @@ p {
   padding-left: 10px;
   border-radius: 10px 10px 10px 10px;
   margin-left: 6%;
-  margin-bottom: 20px;
+  margin-bottom: 2.2%;
+  display: inline-block;
 }
 .beige-testimonial p {
   font-size: 12px;
@@ -106,7 +109,8 @@ p {
   padding-top: 10px;
   padding-left: 10px;
   border-radius: 10px 10px 10px 10px;
-  margin-bottom: 20px;
+  margin-bottom: 2.2%;
+  margin-right: 7%;
   float: right;
 }
 .black-testimonial p {
