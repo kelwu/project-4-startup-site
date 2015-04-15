@@ -79,6 +79,9 @@ h2 {
   box-shadow: 0 -2px 5px 2px black inset;
 }
 
+.map {
+  width: 100%;
+}
 h1 {
   position: absolute;
   text-align: center;
