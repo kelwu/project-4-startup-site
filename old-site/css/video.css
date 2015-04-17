@@ -4,12 +4,11 @@ html, body {
   margin: 0;
   padding-right: 5%;
   padding-left: 5%;
-  height: 100%;
 }
 .body-wrap {
   background: #F2F2F2;
   margin: 0 auto;
-  width: 1000px;
+  width: 100%;
   height: 100%;
   text-align: center;
 }
