@@ -85,6 +85,9 @@ html, body {
     width: 150px;
     border-radius: 100%;
   }
+  footer {
+    height: 100%;
+  }
 }
 
 section {
@@ -233,6 +236,7 @@ footer {
   width: 100%;
   display: block;
   background-color: black;
+  height: 2.4%;
 }
 
 footer p {
@@ -240,4 +244,5 @@ footer p {
   margin: 0 0 0 43px;
   color: white;
   padding: 2px;
+  padding-top: 4px;
 }

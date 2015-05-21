@@ -4,6 +4,7 @@ html, body {
   margin: 0;
   padding-right: 5%;
   padding-left: 5%;
+  height: 100%;
 }
 .body-wrap {
   background: #F2F2F2;
